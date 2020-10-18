@@ -1,6 +1,13 @@
 # rick_and_morty_app_flutter
 
-A new Flutter project.
+# Finished Project
+
+![](assets/screen.gif)
+
+# Certificate of Completion
+
+![certificate](assets/UC-1ab07c7c-2ee0-4725-badb-7fde6be43ce1.jpg)
+
 
 ## Getting Started
 
